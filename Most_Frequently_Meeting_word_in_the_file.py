@@ -10,6 +10,7 @@
 # [1] Valentyn N Sichkar. Processing data about students marks // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Processing_data_about_students_marks (date of access: XX.XX.XXXX)
 
 
+
 # Implementing the task
 # Processing data about the student's marks
 # Reading the data from the file
