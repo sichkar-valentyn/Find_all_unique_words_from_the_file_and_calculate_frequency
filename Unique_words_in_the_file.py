@@ -1,3 +1,15 @@
+# File: Find_all_unique_words_from_the_file_and_calculate_frequency.py
+# Description: Find all unique words from the file and calculate frequency
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Find all unique words from the file and calculate frequency // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Find_all_unique_words_from_the_file_and_calculate_frequency (date of access: XX.XX.XXXX)
+
+
 # Implementing the task - find the all unique words from the file and show their numbers of meeting in it
 # Showing the result in order it occured in the initial string
 # Reading the file and putting datato the string
